@@ -242,30 +242,5 @@ Catching a particular type of Exception using the `on` keyword.
   }  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# NOTE:
+The following notes are for the video tutorial provided by [freecodecamp](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) and [Mahmud Ahsan](https://github.com/mahmudahsan/)
