@@ -5,10 +5,12 @@ Codebase for basics of DART programming language
 
 Dart is a static language. It is a strongly typed language. A string variable is a string. You cannot assign anything else to it.
 
-# NOTE:
-The following notes are for the video tutorial provided by [freecodecamp](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) and [Mahmud Ahsan](https://github.com/mahmudahsan/).  
+### Video Tutorial:
+The following notes are for the video tutorial provided by [freecodecamp](https://www.freecodecamp.org/) and [Mahmud Ahsan](https://github.com/mahmudahsan/).  
 
-You can find the [VIDEO TUTORIAL]((https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)).
+Check out the [VIDEO TUTORIAL](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q).
+
+## Basics
 
 Types of compilation  
 1. AOT  
